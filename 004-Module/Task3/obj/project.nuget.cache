@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZVITlPICXSWq0f1B3cgzuF4vqcLtV0iDnVrhLdfhYXr5MrugNCpJZ8bSgRJMKUFaVFjOk/bQh8vI3NwxvMLRw==",
+  "success": true,
+  "projectFilePath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task3/Task3.csproj",
+  "expectedPackageFiles": [
+    "/Users/andreybalabukha/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/andreybalabukha/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

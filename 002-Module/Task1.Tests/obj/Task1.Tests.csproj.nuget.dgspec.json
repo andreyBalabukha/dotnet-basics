@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1.Tests/Task1.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1.Tests/Task1.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1.Tests/Task1.Tests.csproj",
+        "projectName": "Task1.Tests",
+        "projectPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1.Tests/Task1.Tests.csproj",
+        "packagesPath": "/Users/andreybalabukha/.nuget/packages/",
+        "outputPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andreybalabukha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1/Task1.csproj": {
+                "projectPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1/Task1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1/Task1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1/Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1/Task1.csproj",
+        "packagesPath": "/Users/andreybalabukha/.nuget/packages/",
+        "outputPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/002-Module/Task1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andreybalabukha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

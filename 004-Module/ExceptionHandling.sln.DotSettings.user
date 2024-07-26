@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=835a13d5_002Da23f_002D4be3_002Da3cb_002D705f1818d12a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NumberParserTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::52928D4A-00B8-450A-81BB-575FF65E7A79::net8.0::Task2.Tests.NumberParserTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83de4d6c_002D9bcc_002D4bc4_002Dae84_002D4607b85499c4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NumberParserTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::52928D4A-00B8-450A-81BB-575FF65E7A79::net8.0::Task2.Tests.NumberParserTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3e1eb99_002De752_002D436c_002D966c_002D52f9a54c56a4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Parse_ValidNumberString_ReturnsInt32Value" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::52928D4A-00B8-450A-81BB-575FF65E7A79::net8.0::Task2.Tests.NumberParserTests.Parse_ValidNumberString_ReturnsInt32Value&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d2609f60_002D47c3_002D43ee_002Da24e_002Dd258fae0e8e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NumberParserTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::52928D4A-00B8-450A-81BB-575FF65E7A79::net8.0::Task2.Tests.NumberParserTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

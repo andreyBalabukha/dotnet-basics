@@ -1,0 +1,14 @@
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.deps.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.runtimeconfig.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.AssemblyInfoInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.AssemblyInfo.cs
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/refint/ConsoleApp5.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.genruntimeconfig.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/005-Module/ConsoleApp5/obj/Debug/net8.0/ref/ConsoleApp5.dll

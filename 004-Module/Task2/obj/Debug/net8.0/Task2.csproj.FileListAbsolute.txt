@@ -1,0 +1,11 @@
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/bin/Debug/net8.0/Task2.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/Task2.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/net8.0/ref/Task2.dll

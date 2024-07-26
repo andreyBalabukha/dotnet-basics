@@ -1,0 +1,14 @@
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/001-Module/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

@@ -1,0 +1,9 @@
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/bin/Debug/netcoreapp3.1/Task2.deps.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/bin/Debug/netcoreapp3.1/Task2.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/bin/Debug/netcoreapp3.1/Task2.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/netcoreapp3.1/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfoInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfo.cs
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/netcoreapp3.1/Task2.csproj.CoreCompileInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/netcoreapp3.1/Task2.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2/obj/Debug/netcoreapp3.1/Task2.pdb

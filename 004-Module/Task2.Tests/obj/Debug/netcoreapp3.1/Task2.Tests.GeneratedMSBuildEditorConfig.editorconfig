@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Task2.Tests
+build_property.ProjectDir = /Users/andreybalabukha/Documents/csharp-mentoring-epam/004-Module/Task2.Tests/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
