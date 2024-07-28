@@ -1,0 +1,5 @@
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/006-Module/DataStructures/Tasks/obj/Debug/net8.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/006-Module/DataStructures/Tasks/obj/Debug/net8.0/Tasks.AssemblyInfoInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/006-Module/DataStructures/Tasks/obj/Debug/net8.0/Tasks.AssemblyInfo.cs
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/006-Module/DataStructures/Tasks/obj/Debug/net8.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/006-Module/DataStructures/Tasks/obj/Debug/net8.0/Tasks.sourcelink.json

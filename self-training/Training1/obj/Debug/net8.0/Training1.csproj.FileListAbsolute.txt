@@ -1,0 +1,15 @@
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/bin/Debug/net8.0/Training1
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/bin/Debug/net8.0/Training1.deps.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/bin/Debug/net8.0/Training1.runtimeconfig.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/bin/Debug/net8.0/Training1.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/bin/Debug/net8.0/Training1.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.AssemblyInfoInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.AssemblyInfo.cs
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.csproj.CoreCompileInputs.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.sourcelink.json
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/refint/Training1.dll
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.pdb
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/Training1.genruntimeconfig.cache
+/Users/andreybalabukha/Documents/csharp-mentoring-epam/self-training/Training1/obj/Debug/net8.0/ref/Training1.dll
