@@ -37,7 +37,7 @@ public class OddEven {
         if (number % 2 == 0) {
             oddEvenList.Add("Even");
         } else {
-            oddEvenList.Add(number.ToString());
+            oddEvenList.Add("Odd");
         }
     }
 
