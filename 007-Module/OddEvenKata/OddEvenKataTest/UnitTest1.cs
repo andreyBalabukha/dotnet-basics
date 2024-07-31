@@ -15,3 +15,10 @@ public class Tests
         Assert.Pass();
     }
 }
+
+public class OddEven {
+
+    public string generateOddEvenSequence(int number) {
+        return "123";
+    }
+}

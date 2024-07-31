@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OddEvenKataTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308ea1f191bf66a8129ead690e1dd1d2acbd1d60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a957a3d712daaa1927ca2857a3626332f0b06cc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OddEvenKataTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OddEvenKataTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
