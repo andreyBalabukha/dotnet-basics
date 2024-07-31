@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OddEvenKata", "OddEvenKata"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenKataTest", "OddEvenKata\OddEvenKataTest\OddEvenKataTest.csproj", "{293694C4-3882-4408-A600-8620DE90F4D6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StringSumTest", "StringSumTest", "{92FD8900-A24B-4DA8-BC6B-BBE38B268C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSumTest", "StringSumTest\StringSumTest\StringSumTest.csproj", "{2FBF1A5D-91A8-4420-9452-F8704507764C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +32,14 @@ Global
 		{293694C4-3882-4408-A600-8620DE90F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{293694C4-3882-4408-A600-8620DE90F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{293694C4-3882-4408-A600-8620DE90F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBF1A5D-91A8-4420-9452-F8704507764C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBF1A5D-91A8-4420-9452-F8704507764C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBF1A5D-91A8-4420-9452-F8704507764C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBF1A5D-91A8-4420-9452-F8704507764C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F3C9588A-DE23-4F61-95A2-C9E5773AF9CF} = {FA60EAF7-0628-4003-BD74-E4115B73B054}
 		{293694C4-3882-4408-A600-8620DE90F4D6} = {EF850312-22B0-45E1-8A84-AFA1B69C5871}
+		{2FBF1A5D-91A8-4420-9452-F8704507764C} = {92FD8900-A24B-4DA8-BC6B-BBE38B268C9B}
 	EndGlobalSection
 EndGlobal

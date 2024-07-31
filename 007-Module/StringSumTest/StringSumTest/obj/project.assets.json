@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/FizzBuzzProject/TestProject1/TestProject1.csproj",
-      "projectName": "TestProject1",
-      "projectPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/FizzBuzzProject/TestProject1/TestProject1.csproj",
+      "projectUniqueName": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/StringSumTest/StringSumTest/StringSumTest.csproj",
+      "projectName": "StringSumTest",
+      "projectPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/StringSumTest/StringSumTest/StringSumTest.csproj",
       "packagesPath": "/Users/andreybalabukha/.nuget/packages/",
-      "outputPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/FizzBuzzProject/TestProject1/obj/",
+      "outputPath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/StringSumTest/StringSumTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andreybalabukha/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DZTJ6YcjpGWCMpmo3ZhgV80Q8B5TuC+b88lgpss2bvoOvaVl3HhxdGN+uGC5s2W6UKQzFXyjWqcCXjxWkujztg==",
+  "dgSpecHash": "yyTdHMZHkGXsnFyICUgFSJzNLuuilW+CcCMXC9uhlhA+wyT00Rg6q0gnRa1bs80r/ZlCTAG7ENZful9Kpwo6lA==",
   "success": true,
-  "projectFilePath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/FizzBuzzProject/TestProject1/TestProject1.csproj",
+  "projectFilePath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/007-Module/StringSumTest/StringSumTest/StringSumTest.csproj",
   "expectedPackageFiles": [
     "/Users/andreybalabukha/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/Users/andreybalabukha/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
