@@ -11,6 +11,13 @@ public class Tests
     public void Test1()
     {
         var oddEven = new OddEven();
+        Assert.That(oddEven.generateOddEvenSequence(0), Is.EqualTo("Invalid number"));
+    }
+
+    [Test]
+    public void Test2()
+    {
+        var oddEven = new OddEven();
         Assert.That(oddEven.generateOddEvenSequence(2), Is.EqualTo("1, Even"));
     }
 }
@@ -28,9 +35,9 @@ public class OddEven {
     }
 
     public string generateOddEvenSequence(int number) {
-        if (number < 1 && number > 100 ) {
+        if (number < 1 || number > 100 ) {
             return "Invalid number";
-        }
+        } 
 
         for (int i = 1; i <=number; i++) {
             checkForOddEven(i);
