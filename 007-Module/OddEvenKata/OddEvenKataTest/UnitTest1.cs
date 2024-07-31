@@ -20,6 +20,13 @@ public class Tests
         var oddEven = new OddEven();
         Assert.That(oddEven.generateOddEvenSequence(2), Is.EqualTo("1, Even"));
     }
+
+    [Test]
+    public void Test3()
+    {
+        var oddEven = new OddEven();
+        Assert.That(oddEven.generateOddEvenSequence(3), Is.EqualTo("Odd, Even, Odd"));
+    }
 }
 
 public class OddEven {
