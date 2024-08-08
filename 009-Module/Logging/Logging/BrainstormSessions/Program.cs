@@ -12,7 +12,6 @@ namespace BrainstormSessions
         public static void Main(string[] args)
         {
             Log.Logger = new LoggerConfiguration()
-                .MinimumLevel.Debug()
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Debug)
                 .MinimumLevel.Override("Microsoft", LogEventLevel.Error)
@@ -24,7 +23,7 @@ namespace BrainstormSessions
                     "[{@t:HH:mm:ss} {@l:u3}{#if @tr is not null} ({substring(@tr,0,4)}:{substring(@sp,0,4)}){#end}] {@m}\n{@x}",
                     theme: TemplateTheme.Code))
                 .CreateLogger();
-            try 
+            try
             {
                 Log.Information("Starting up the host");
                 CreateHostBuilder(args).Build().Run();
@@ -43,6 +42,7 @@ namespace BrainstormSessions
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+                .UseSerilog()
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();

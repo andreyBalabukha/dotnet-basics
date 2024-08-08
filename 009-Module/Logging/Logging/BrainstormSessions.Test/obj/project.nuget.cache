@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ULeLRFSBaMNXKALpYbuDCQkQnacl4g0CuSBkb96r2MeZYL41R+EcTc9UESy5pRQzeWBFQUohfvtwOYnBy1rRRg==",
+  "dgSpecHash": "RU038jsIAWveSWHx8SQwoxNsOnSQ7IxE6NHi5Q+MxuwlVWdVag3tVgc7NmbqdR/JNzWwpZ8TyoW+7aKmbTVwlA==",
   "success": false,
   "projectFilePath": "/Users/andreybalabukha/Documents/csharp-mentoring-epam/009-Module/Logging/Logging/BrainstormSessions.Test/BrainstormSessions.Test.csproj",
   "expectedPackageFiles": [
