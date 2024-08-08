@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 using Serilog.Events;
+using Serilog.Formatting.Compact;
 using Serilog.Templates;
 using Serilog.Templates.Themes;
 
@@ -22,6 +23,11 @@ namespace BrainstormSessions
                 .WriteTo.Console(new ExpressionTemplate(
                     "[{@t:HH:mm:ss} {@l:u3}{#if @tr is not null} ({substring(@tr,0,4)}:{substring(@sp,0,4)}){#end}] {@m}\n{@x}",
                     theme: TemplateTheme.Code))
+                .WriteTo.File(
+                    formatter: new CompactJsonFormatter(),
+                    path: "./Logs/brainstormSessions.txt",
+                    rollingInterval: RollingInterval.Hour,
+                    shared: true)
                 .CreateLogger();
             try
             {
